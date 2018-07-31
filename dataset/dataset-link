@@ -1,0 +1,8 @@
+Please use this link to download dataset files and put here in the same folder (eg. dataset)
+https://www.kaggle.com/kmader/food41
+
+Files to be downloaded : 
+food_c101_n10099_r64x64x3.h5
+food_test_c101_n1000_r64x64x3.h5
+
+32 x 32 x 3 image files are already downloaded!
